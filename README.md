@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunil14300
 - 👀 I’m interested in ...web
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...<!---
 sunil14300
